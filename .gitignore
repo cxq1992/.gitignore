@@ -1,0 +1,12 @@
+*a
+
+#vscode
+.vscode
+
+#qt
+*.cflags
+*.config
+*.creator
+*.cxxflags
+*.files
+*.includes
