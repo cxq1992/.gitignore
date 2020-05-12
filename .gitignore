@@ -1,4 +1,10 @@
-*a
+*.out
+*.exe
+
+*.a
+*.so
+*.lib
+*.dll
 
 #vscode
 .vscode
